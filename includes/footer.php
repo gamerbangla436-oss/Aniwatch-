@@ -1,0 +1,1 @@
+</main><footer><strong>Ani<span>Read</span></strong><p>Original catalog UI. Streaming sources are supplied and managed by site administrators.</p></footer><script src="<?=url('assets/app.js')?>"></script></body></html>
